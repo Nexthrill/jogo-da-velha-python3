@@ -1,5 +1,6 @@
 ################################################
 ##### PROGRAMADO POR: LEANDRO L. MONTANARI #####
+  ##### PROGRAMADO POR: Kenyson estelita #####
 ################################################
 
 from time import sleep
