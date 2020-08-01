@@ -1,5 +1,4 @@
 ################################################
-##### PROGRAMADO POR: LEANDRO L. MONTANARI #####
   ##### PROGRAMADO POR: Kenyson estelita #####
 ################################################
 
